@@ -6,5 +6,5 @@ branding:
   icon: 'layers'
   color: 'red'
 runs:
-  using: 'node16'
+  using: 'node22'
   main: 'dist/action.js'
